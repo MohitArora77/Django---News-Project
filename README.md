@@ -1,1 +1,2 @@
-# Django---News-Project
+# Django--> News-Project
+# Simple News Project
